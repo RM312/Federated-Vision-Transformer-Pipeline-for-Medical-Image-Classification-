@@ -263,4 +263,4 @@ We gratefully acknowledge the creators of:
 - Monkeypox Skin Lesion Dataset (MSLD)
 - Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0)
 
-for making these datasets publicly available to support research in computer-aided diagnosis of Mpox skin lesions. :contentReference[oaicite:2]{index=2}
+for making these datasets publicly available to support research in computer-aided diagnosis of Mpox skin lesions.
